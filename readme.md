@@ -47,7 +47,6 @@ FutureSelf is an innovative personal motivation tool that uses AI to transform y
 
 ## Troubleshooting
 
-- Ensure your Mac and iOS device are on the same network for SSH to work.
 - Check that Ollama is running on your Mac before executing the shortcut.
 - Verify your ElevenLabs API key and voice ID are correct.
 
